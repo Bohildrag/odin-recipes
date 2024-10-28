@@ -1,0 +1,33 @@
+* {
+    background-color: wheat;
+    
+}
+
+#title {
+    margin: 0 auto;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.recipes {
+    margin-left: -1em;
+    color: saddlebrown;
+    font-weight: bold;
+    font-family: Verdana, sans-serif;
+    
+    padding: 2px;
+    
+
+}
+
+.recipe1{
+    margin-bottom: 10px;
+    
+}
+
+.recipe2{
+    margin-bottom: 10px;
+
+}
+
+
